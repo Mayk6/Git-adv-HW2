@@ -4,6 +4,7 @@ def firstFunc(var):
 
 def secoundFunc(var):
     d = 1
-    print(var + d)
+    i = 3
+    print(var + d + i)
     
 
